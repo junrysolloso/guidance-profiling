@@ -1,0 +1,13 @@
+TRUNCATE TABLE active_info;
+TRUNCATE TABLE drop_info;
+TRUNCATE TABLE entrance_info;
+TRUNCATE TABLE exit_info;
+TRUNCATE TABLE expelled_info;
+TRUNCATE TABLE father_info;
+TRUNCATE TABLE graduate_info;
+TRUNCATE TABLE mother_info;
+TRUNCATE TABLE psychology_info;
+TRUNCATE TABLE reciept_info;
+TRUNCATE TABLE shift_info;
+TRUNCATE TABLE studentjunc_info;
+TRUNCATE TABLE student_info;
